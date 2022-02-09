@@ -1,0 +1,38 @@
+.content{
+    background-image: url(bg_img.png);
+    background-size: cover;
+    height: 70vh;
+    background-repeat: no-repeat;
+   padding-top: auto;
+}
+.content-text{
+    color: rgba(245, 255, 232, 0.603);
+}
+.apply-btn{
+    padding: 5px 15px ;
+    background-color: azure;
+    border: none;
+    transition: 0.5s;
+}
+.apply-btn:hover{
+    background-color: rgba(107, 107, 107, 0.863);
+    letter-spacing: 2px;
+}
+#tab{
+    height: 90vh;
+    overflow-y: scroll;
+}
+
+.content-img{
+    height: 70%;
+    width:100%;
+    object-fit: cover;
+}
+.download-btn{
+    text-decoration: none;
+    padding: 5px 15px ;
+    background-color: rgb(143, 156, 156);
+    border: none;
+    transition: 0.5s;
+    color: black;
+}
