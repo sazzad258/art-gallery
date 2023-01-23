@@ -99,13 +99,13 @@ nav{
     padding: 1%;
 
 }
-/* .logo-img {
-    height: 110px;
-} */
+.logo-img {
+width: 100%;
+}
 .logo-img img{
-    height: 150px;
-    width: 150px;
-    object-fit: contain;
+    height: 100px;
+    width: auto;
+    object-fit: cover;
 }
 @media only screen and (max-width: 650px) {
     .nav-item {
