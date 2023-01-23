@@ -140,7 +140,7 @@ max-width: 50%;
 }
 .nav-l:hover{
     color: rgb(201, 201, 201);
-    border-bottom: 2px solid rgb(58, 58, 58);
+    border-bottom: 2px solid rgb(255, 255, 255);
 
 
 }
