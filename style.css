@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Explora&family=Fascinate&family=Merriweather:wght@300&family=Mochiy+Pop+One&family=Sofia+Sans+Extra+Condensed:wght@100;500&family=Updock&display=swap');
  
 nav{
-    background-color: rgb(255, 59, 59);
+    background-color: #CB4458;
 
 }
 .social-icons{
@@ -82,16 +82,16 @@ nav{
   .nav-l-sm{
     text-decoration: none;
     list-style: none;
-    color: black;
+    color: rgb(255, 255, 255);
     padding: 5px 20px;
   }
   .nav-l-sm div{
     padding: 10px;
-    background-color: rgb(226, 242, 255);
+    background-color: #CB4458;
     width: 200px !important;
   }
   .nav-bg{
-    background-color: rgb(255, 59, 59);
+    background-color:  #CB4458;
     border-top: 1px solid rgb(155, 155, 155);
   }
 .nav-item{
@@ -99,11 +99,11 @@ nav{
     padding: 1%;
 
 }
-.logo-img {
-width: 100%;
-}
+/* .logo-img {
+max-width: 50%;
+} */
 .logo-img img{
-    height: 100px;
+    height: 70px;
     width: auto;
     object-fit: cover;
 }
@@ -133,13 +133,13 @@ width: 100%;
 }
 .nav-l{
     text-align: center;
-    color: black;
+    color: rgb(255, 255, 255);
     text-decoration: none;
     text-transform: uppercase;
     margin-left: -30px;
 }
 .nav-l:hover{
-    color: rgb(88, 88, 88);
+    color: rgb(201, 201, 201);
     border-bottom: 2px solid rgb(58, 58, 58);
 
 
@@ -199,15 +199,15 @@ width: 100%;
   }
 
 footer{
-    background-color: rgb(255, 59, 59);
-    color: rgb(41, 41, 41);
+    background-color: #CB4458;
+    color: rgb(255, 255, 255);
     padding: 2%;
     margin-top: 6%;
 }
 
 .conditions a{
     text-decoration: none;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 .conditions{
     text-align: end;
